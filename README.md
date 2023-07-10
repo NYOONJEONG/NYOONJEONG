@@ -1,5 +1,4 @@
 ### 👋 Hello, welcome to my GitHub
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNYOONJEONG%2FNYOONJEONG%2F&count_bg=%23FFB1DD&title_bg=%237C5F74&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Education
 -  🎓 Graduated **Korea University** (2019.03~2023.08) \
