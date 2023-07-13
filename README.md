@@ -2,8 +2,8 @@
 
 ### Education
 -  🎓 Graduated **Korea University** (2019.03~2023.08) \
-     majored Mathematics(first major) and Statistics(double major)
--  
+     majored **Mathematics**(first major) and **Statistics**(double major)
+-  📚 Currently I'm studying **Statistics graduate course** in **Korea University** (expected graduation 2025 Feb)
 
 
 
