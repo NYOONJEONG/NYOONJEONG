@@ -1,4 +1,4 @@
-### 👋 Hello, welcome to my GitHub
+### 👋 Hello, I'm YoonJeong welcome to my GitHub
 
 ### Education
 -  🎓 Graduated **Korea University** (2019.03~2023.08) \
