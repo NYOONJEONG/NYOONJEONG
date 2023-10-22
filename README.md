@@ -1,9 +1,9 @@
 ### 👋 Hello, welcome to my GitHub!
 
 ## Education
--  🎓 Graduated **Korea University** (2019.03~2023.08) \
-     majored **Mathematics**(first major) and **Statistics**(double major)
--  📚 Currently I'm studying **Statistics masters degree** in **Korea University** (expected graduation 2025 Feb)
+-  🎓 **고려대학교** 졸업 (2019.03~2023.08) \
+  **수학과**(본전공)&**통계학과**(이중전공)
+-  📚 현재 **고려대학교 통계학과 석사 과정** 재학중 (expected graduation 2025 Feb)
 
 ## Experience
 - 🏫 KUBA **Korea University Buddy Assistants** 34th (2020.02~2020.08)
