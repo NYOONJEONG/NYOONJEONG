@@ -1,4 +1,3 @@
-### 👋 Hello, welcome to my GitHub!
 
 ## Education
 -  🎓 **고려대학교** 졸업 (2019.03~2023.08) 
@@ -16,18 +15,8 @@
 - 🏅 2023 빅콘테스트 빅데이터플랫폼분야 지정주제(부동산) 리그 **🏆빅콘테스트 운영위원장상🏆** (2023.08~2023.11)
 - 🏅 2023 KETI 고려대 AI 융합∙응용기술 아이디어 경진대회 **🏆4위 장려상(한국전자기술연구원장상)🏆** (2023.09~2024.01)
 
+## Skills
+ - Programming
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
-<!--
-**NYOONJEONG/NYOONJEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONYOON&layout=compact&theme=vue"><br><br>
